@@ -1,0 +1,11 @@
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\bin\Debug\net8.0\Evotec.DTO.deps.json
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\bin\Debug\net8.0\Evotec.DTO.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\bin\Debug\net8.0\Evotec.DTO.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\Evotec.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\Evotec.DTO.AssemblyInfoInputs.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\Evotec.DTO.AssemblyInfo.cs
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\Evotec.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\Evotec.DTO.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\refint\Evotec.DTO.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\Evotec.DTO.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.DTO\obj\Debug\net8.0\ref\Evotec.DTO.dll

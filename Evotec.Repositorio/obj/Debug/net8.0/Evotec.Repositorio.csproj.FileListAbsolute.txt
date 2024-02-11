@@ -1,0 +1,15 @@
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\bin\Debug\net8.0\Evotec.Repositorio.deps.json
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\bin\Debug\net8.0\Evotec.Repositorio.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\bin\Debug\net8.0\Evotec.Repositorio.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.AssemblyInfoInputs.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.AssemblyInfo.cs
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\refint\Evotec.Repositorio.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\ref\Evotec.Repositorio.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\bin\Debug\net8.0\Evotec.Modelo.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\bin\Debug\net8.0\Evotec.Modelo.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.csproj.AssemblyReference.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.Repositorio\obj\Debug\net8.0\Evotec.Repositorio.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\bin\Debug\net8.0\Evotec.Modelo.deps.json
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\bin\Debug\net8.0\Evotec.Modelo.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\bin\Debug\net8.0\Evotec.Modelo.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.AssemblyInfoInputs.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.AssemblyInfo.cs
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\refint\Evotec.Modelo.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.pdb
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\ref\Evotec.Modelo.dll
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\bin\Debug\net8.0\Evotec.Modelo.runtimeconfig.json
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.csproj.AssemblyReference.cache
+C:\Users\gabom\source\repos\Evotec\Evotec.Modelo\obj\Debug\net8.0\Evotec.Modelo.genruntimeconfig.cache
